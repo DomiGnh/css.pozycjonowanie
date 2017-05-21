@@ -1,0 +1,8 @@
+/*
+-postion statistic- pozycja domyśłna, statyczna, 
+-position relative: ustwaie względem elemntu nadrzędnego, a jak takowego nie ma to wzgl, okna przeglądarki. nie rusza innych elementów. 
+div w divie bedzie nadrzednym (rodzic-dziecko) , jezeli są obok to okno przeglądarki 
+- position absolute: ustala pozycje wzgl elementu nadrzednego, ktory jest w  pozycji relatywnej, robi miejsce innym elemntom na stronie ( w danym konterze)
+
+
+*/
