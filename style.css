@@ -4,5 +4,13 @@
 div w divie bedzie nadrzednym (rodzic-dziecko) , jezeli są obok to okno przeglądarki 
 - position absolute: ustala pozycje wzgl elementu nadrzednego, ktory jest w  pozycji relatywnej, robi miejsce innym elemntom na stronie ( w danym konterze)
 
-
+-pozycja fixed: pozwala na ustalenie pozycji wzgl okna przeglądarki, np. popy przyklejamy do okna. 
 */
+
+#kontener
+{
+    background-color: green;
+    width: 400px;
+    height: 400px;
+    
+}
